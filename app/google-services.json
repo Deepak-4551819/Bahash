@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756030460126",
+    "project_id": "bahash-e7c19",
+    "storage_bucket": "bahash-e7c19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756030460126:android:9f7c9da5798b316ab3b24f",
+        "android_client_info": {
+          "package_name": "com.example.bahash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLdbMjc7DZY0Y36559gRHRb9Ykq3c2UQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
